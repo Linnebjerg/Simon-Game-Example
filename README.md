@@ -1,1 +1,1 @@
-# Simon-Game-Example
+This is an example of the simple 'Simon Game'. The user is visually told to click a button and must click this specific button. Each time the user clicks the right button, a another button is added to the sequence of buttons that must be clicked. The user then has to memorize the sequence and presse the buttons in the correct order.  
